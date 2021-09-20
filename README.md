@@ -1,0 +1,2 @@
+# Web-Scaping-ESPN
+In this notebook, I get records of attendance soccer matches using the beautifulsoup library to extract the data on the ESPN website (web sites:https://global.espn.com/football/fixtures/_/date/20051026/league/eng.1). On the website of ESPN, it shows the matches played in each round by each season in the championship chose (In this notebook I chose the English Premier League). The data that we can get to each match are:  Name Home Team Name Away Team Location of the match (City,Stadium) Result of the match attendance
